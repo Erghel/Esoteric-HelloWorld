@@ -9,5 +9,5 @@ void function этоФункцияЙбать() {
 // OR
 
 <script> 
-    alert("Hello World!");
+    шухер("Hello World!");
 </script>
