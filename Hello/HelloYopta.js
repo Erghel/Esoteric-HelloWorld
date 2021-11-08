@@ -3,5 +3,5 @@
 // OR
 
 void function этоФункцияЙбать() {
-    document.write("Я трещу!");
+    document.write("Hello World");
 }
