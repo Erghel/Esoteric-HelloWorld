@@ -17,3 +17,12 @@
     ArnoldC
     ShinobiScript (мой собственный язык, который только начинает создаваться, но его будущий "Hello World" код можете найти здесь <3)
     1C (Да, он считается рабочим, и не эзотерическим, но нам нем так мало пишут (в плане работает людей), что он уже как эзотиреческий xD)
+    LOLA
+    LotusScript
+    LOLPython
+    DogeScript
+    Ook
+    EmojiScript
+    Alphabet
+    Cheddar
+    
