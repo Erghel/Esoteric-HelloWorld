@@ -25,5 +25,5 @@
 - EmojiScript
 - Alphabet
 - Cheddar
-- TeaScript (My own esoteric programming language) 
+- TeaScript (Также мой собственный язык программирования) 
     
